@@ -1,8 +1,16 @@
-# Databricks 14 Days AI Challenge
+<img width="1580" height="300" alt="banner" src="https://github.com/user-attachments/assets/54b3b592-3e41-4af9-a404-e4bf57faf2eb" />
+
+
+<div align="center">
+
+# Databricks 14-Days of AI Challenge
+
+</div>
+
 Excited to be joining the Databricks 14 Days AI Challenge by Indian Data Club!
 I’m looking forward to strengthening my fundamentals in Databricks, Apache Spark, and real‑world data engineering workflows through hands‑on learning. Excited to learn, build, and grow alongside the community over the next 14 days.
 
-Grateful for the support and initiative by Databricks, Codebasics, and Indian Data Club.
+Grateful for the support and initiative by [Databricks,](https://databricks.com/) [Codebasics](https://codebasics.io/) and [Indian Data Club.](https://www.linkedin.com/company/indian-data-club/)
 
 # Day 0 | Setup & Data Loading – Databricks 14 Days AI Challenge  
 
@@ -120,6 +128,28 @@ Tasks I Completed:
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/d4830453-e8a1-4684-9c3d-a42f7f086b4c" />
 
 <img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/436d17b5-f94e-4e0c-ae4b-e5cb8dd9c9e8" />
+
+
+# DAY 06 Completed (14/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve successfully completed Day 6 of the Databricks AI Challenge, focusing on building a scalable Medallion Architecture to structure data pipelines for analytics-ready workloads.
+
+What I Learned Today:
+• Medallion Architecture: Bronze (raw) → Silver (cleaned) → Gold (aggregated)
+• Best practices for designing each data layer
+• Incremental processing patterns for efficient data movement
+
+Tasks I Completed:
+• Designed a robust 3-layer Medallion architecture
+• Built the Bronze layer for raw data ingestion
+• Implemented the Silver layer with data cleaning and validation
+• Created the Gold layer with business-ready aggregations
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/d97193af-5477-4ad1-bb7c-46c0612a59c3" />
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/b68b2ce3-1876-431a-9696-7b238d303e4b" />
+
+
 
 
 
