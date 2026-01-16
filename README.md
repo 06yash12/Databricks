@@ -176,6 +176,32 @@ Tasks I Completed:
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/e0a7691c-2b7d-4a74-a031-68c26ac1ec07" />
 
 
+# DAY 08 Completed (16/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve successfully completed Day 8 of the Databricks AI Challenge, where the focus was on data governance using Unity Catalog—a critical foundation for secure, scalable, and enterprise-grade data platforms in Databricks.
+
+What I Learned Today:
+• Catalog → Schema → Table hierarchy in Unity Catalog
+• Fine-grained access control using GRANT / REVOKE
+• Understanding and exploring data lineage
+• Differences between managed and external tables
+
+Tasks I Completed:
+• Created catalogs and schemas in Unity Catalog
+• Registered Delta tables under governed catalogs
+• Configured permissions for secure data access
+• Built views to enable controlled, role-based data consumption
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/26a41678-bcf0-485e-974c-2bd633a8af6b" />
+
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/5c7502c6-1396-4a67-9379-a712f56c149c" />
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/719340b9-0b05-4568-babd-3b6bfe88fb98" />
+
+
+
+
+
 
 
 
