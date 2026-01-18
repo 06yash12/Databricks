@@ -12,7 +12,7 @@ I’m looking forward to strengthening my fundamentals in Databricks, Apache Spa
 
 Grateful for the support and initiative by [Databricks,](https://databricks.com/) [Codebasics](https://codebasics.io/) and [Indian Data Club.](https://www.linkedin.com/company/indian-data-club/)
 
-# Day 0 | Setup & Data Loading – Databricks 14 Days AI Challenge  
+# Day 0 (08/01/26)– Setup & Data Loading  
 
 Focused on setting up the environment and preparing data before starting Day 1.
 
@@ -25,7 +25,7 @@ What I completed:
 
 Setup done. Data ready.
 
-# Day 1 Completed (09/01/2026)– Databricks 14 Days AI Challenge 
+# DAY 1 (09/01/26)– Platform Setup & First Steps
 
 I’ve completed Day 1 of the Databricks AI Challenge, and it was an exciting start to my journey into the Databricks Lakehouse ecosystem.
 
@@ -43,7 +43,7 @@ Tasks I Completed:
 
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/398efe51-0881-4da1-9456-945a599cded6" />
 
-# Day 2 Completed (10/01/2026) – Databricks 14 Days AI Challenge
+# DAY 2 (10/01/26) – Apache Spark Fundamentals
 I’ve completed Day 2 of the Databricks AI Challenge, where the focus was on building strong fundamentals in Apache Spark and understanding how data is processed at scale.
 
 What I Learned Today:
@@ -64,7 +64,7 @@ Tasks I Completed:
 
 <img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/a479603e-6e15-474e-9695-f9d56d2f1b9b" />
 
-# DAY 03 Completed (11/01/2026) – Databricks 14 Days AI Challenge
+# DAY 3 (11/01/26) – PySpark Transformations Deep Dive
 
 I’ve completed Day 3 of the Databricks AI Challenge, and today was all about going deeper into PySpark transformations and real-world data processing.
 
@@ -86,7 +86,7 @@ Tasks I Completed:
 
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/e7451d2f-6b27-44d6-9f3b-ca0dbb1cee4b" />
 
-# DAY 04 Completed (12/01/2026) – Databricks 14 Days AI Challenge
+# DAY 4 (12/01/26)– Delta Lake Introduction
 
 I’ve completed Day 4 of the Databricks AI Challenge, focusing on Delta Lake fundamentals and reliability in data engineering.
 
@@ -106,7 +106,7 @@ Tasks I Completed:
 
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/79a10663-afaa-4acc-bdfe-0055d801c372" />
 
-# DAY 05 Completed (13/01/2026) – Databricks 14 Days AI Challenge
+# DAY 5 (13/01/26) – Delta Lake Advanced
 I’ve successfully completed Day 5 of the Databricks AI Challenge, diving deep into advanced Delta Lake operations that enable reliable, high-performance data engineering workflows.
 
 What I Learned Today:
@@ -130,7 +130,7 @@ Tasks I Completed:
 <img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/436d17b5-f94e-4e0c-ae4b-e5cb8dd9c9e8" />
 
 
-# DAY 06 Completed (14/01/2026) – Databricks 14 Days AI Challenge
+# DAY 6 (14/01/26) – Medallion Architecture
 
 I’ve successfully completed Day 6 of the Databricks AI Challenge, focusing on building a scalable Medallion Architecture to structure data pipelines for analytics-ready workloads.
 
@@ -149,7 +149,7 @@ Tasks I Completed:
 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/b68b2ce3-1876-431a-9696-7b238d303e4b" />
 
-# DAY 07 Completed (15/01/2026) – Databricks 14 Days AI Challenge
+# DAY 7 (15/01/26) – Workflows & Job Orchestration
 
 I’ve successfully completed Day 7 of the Databricks AI Challenge, focusing on orchestrating production-grade data pipelines using Databricks Jobs.
 
@@ -176,7 +176,7 @@ Tasks I Completed:
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/e0a7691c-2b7d-4a74-a031-68c26ac1ec07" />
 
 
-# DAY 08 Completed (16/01/2026) – Databricks 14 Days AI Challenge
+# DAY 8 (16/01/26) – Unity Catalog Governance
 
 I’ve successfully completed Day 8 of the Databricks AI Challenge, where the focus was on data governance using Unity Catalog—a critical foundation for secure, scalable, and enterprise-grade data platforms in Databricks.
 
@@ -198,7 +198,7 @@ Tasks I Completed:
 
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/719340b9-0b05-4568-babd-3b6bfe88fb98" />
 
-# DAY 09 Completed (17/01/2026) – Databricks 14 Days AI Challenge
+# DAY 9 (17/01/26) – SQL Analytics & Dashboards
 I’ve successfully completed Day 9 of the Databricks AI Challenge, focusing on SQL Analytics and Dashboarding to transform curated data into actionable business insights using Databricks SQL.
 
 What I Learned Today:
@@ -232,6 +232,26 @@ Tasks I Completed:
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/d429d1b1-ba4b-4feb-86b0-e22cbbf0cb86" />
 
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/faf90fab-eb2c-41dd-a0da-ce5e44848241" />
+
+# DAY 10 (18/01/26) – Performance Optimization
+I’ve successfully completed Day 10 of the Databricks AI Challenge, focused on query performance optimization—an essential step for building fast, scalable analytics on large datasets.
+
+What I Learned Today:
+• Understanding and interpreting Spark SQL query execution plans
+• Effective partitioning strategies for large Delta tables
+• Performance tuning using OPTIMIZE and ZORDER
+• Leveraging caching techniques to reduce query latency
+
+Tasks I Completed:
+• Analyzed query execution plans to identify bottlenecks
+• Partitioned large tables to improve scan efficiency
+• Applied OPTIMIZE and ZORDER for data layout optimization
+• Benchmarked performance improvements before and after tuning
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/fbd6e041-56ff-4354-b92b-aea48197f043" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/49070167-20ff-4f00-8e6c-344d66a5ffc6" />
+
 
 
 
